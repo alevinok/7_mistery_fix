@@ -4,11 +4,11 @@
 
 # Как использовать
 
-'''bash
+```python
 from quadratic_equation import get_roots
 
 root1, root2 = get_roots(1, -2, 1)
-'''
+```
 
 # Как запустить
 
